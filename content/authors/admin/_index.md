@@ -5,8 +5,8 @@ title: Michele Fontana
 # Is this the primary user of the site?
 superuser: true
 
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm Michele Fontana, a Ph.D. candidate in Artificial Intelligence at the Computer Science department of the  University of Pisa. My research interests are Federated Learning, Responsible AI, Privacy and Fairness issues in distributed and federated scenarios.
+
 # Education to show in About widget
 education:
   courses:
@@ -59,7 +59,7 @@ social:
 
 ---
 
-Hi 👋! I'm Michele Fontana, a Ph.D. candidate in Artificial Intelligence at the Computer Science department of the  University of Pisa. My main research interests are about  Federated Learning and Privacy and Unfairness risks in Federated Learning scenarios.
+Hi 👋! I'm Michele Fontana, a Ph.D. candidate in Artificial Intelligence at the Computer Science department of the  University of Pisa. My research interests are Federated Learning, Responsible AI, Privacy and Fairness issues in distributed and federated scenarios.
 
 I received a B.Sc. degree in Computer Science in 2017 and a M.Sc. degree in Computer Science with a thesis about "A new approach for cross-silo federated learning and its privacy risks", supervised by Prof. Anna Monreale and Dr. Francesca Naretto.
 

@@ -16,12 +16,15 @@ publication: In *18th International Conference on Privacy, Security and Trust, P
 publication_types:
 - "1"
 publishDate: "2021-12-21"
-slides: example
+
 
 tags:
-- Source Themes
+- HOLDA
+- Federated Learning
+- Privacy risk assessment
+
 title: A new approach for cross-silo federated learning and its privacy risks
 url_code: https://github.com/michelefontana92/HOLDA
 url_pdf: 	https://doi.org/10.1109/PST52912.2021.9647753
-url_slides: ""
+url_slides: "PST2021_Presentation.pdf"
 ---

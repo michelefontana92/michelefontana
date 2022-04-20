@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Michele Fontana # Website name
-baseurl: 'https://michelefontana.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://michelefontana.me/' # Website URL
+# copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -59,6 +59,10 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  defaultMarkdownHandler: "goldmark"
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
 related:
   threshold: 80
   includeNewer: true
@@ -70,3 +74,7 @@ related:
       weight: 70
 security:
   _merge: deep
+
+social:
+  socialInHeader: true
+  socialInFooter: false
