@@ -21,7 +21,7 @@ tags:
 
 title: Ensemble of transformers for the Hate Speech task at Evalita (short paper)
 
-url_pdf: https://www.researchgate.net/profile/Jeffrey-Sorensen-3/publication/351518318_Jigsaw_AMI_and_HaSpeeDe2_Fine-Tuning_a_Pre-Trained_Comment-Domain_BERT_Model/links/60daedfd458515d6fbe7e873/Jigsaw-AMI-and-HaSpeeDe2-Fine-Tuning-a-Pre-Trained-Comment-Domain-BERT-Model.pdf#page=145
+url_pdf: http://ceur-ws.org/Vol-2765/paper119.pdf
 
 ---
 
