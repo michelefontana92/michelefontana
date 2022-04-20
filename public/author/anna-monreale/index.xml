@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Monreale | Michele Fontana</title>
+    <link>https://michelefontana.me/author/anna-monreale/</link>
+      <atom:link href="https://michelefontana.me/author/anna-monreale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Monreale</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michelefontana.me/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Anna Monreale</title>
+      <link>https://michelefontana.me/author/anna-monreale/</link>
+    </image>
+    
+    <item>
+      <title>A new approach for cross-silo federated learning and its privacy risks</title>
+      <link>https://michelefontana.me/publication/holda/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://michelefontana.me/publication/holda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
