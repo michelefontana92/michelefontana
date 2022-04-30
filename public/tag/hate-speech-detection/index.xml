@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hate Speech Detection | Michele Fontana</title>
+    <link>https://michelefontana.me/tag/hate-speech-detection/</link>
+      <atom:link href="https://michelefontana.me/tag/hate-speech-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hate Speech Detection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michelefontana.me/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hate Speech Detection</title>
+      <link>https://michelefontana.me/tag/hate-speech-detection/</link>
+    </image>
+    
+    <item>
+      <title>Ensemble of transformers for the Hate Speech task at Evalita (short paper)</title>
+      <link>https://michelefontana.me/publication/haspeede/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://michelefontana.me/publication/haspeede/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
